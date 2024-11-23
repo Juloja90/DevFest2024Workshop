@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjdKilcoBHE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\B09S311est\\Desktop\\Evento Google\\DevFest2024Workshop\\LightHouse\\lighthouse\\lighthouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\B09S311est\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\B09S311est\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

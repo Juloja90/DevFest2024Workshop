@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OYrhRXPn3KWGVr7FQmKY04Gq0Q5AksnHf743PPi42tY=",
+  "Source": "lighthouse",
+  "BasePath": "_content/lighthouse",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
